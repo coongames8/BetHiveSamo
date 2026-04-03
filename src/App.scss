@@ -6,13 +6,13 @@
     --white: #fff;
     --black: #000000;
     --neon-blue: #e67e22;
-    --dark-blue: #1f2029;
+    --dark-blue: #0d9e44;
     --blue: #f39c12;
     --grey: #6c757d;
     --hue: #00ae58;
     --primary: #03f1c5;
     --dark: #343a40;
-    --darker: #141414;
+    --darker: #171616;
 }
 
   *, *::before, *::after{
@@ -31,7 +31,7 @@
       align-items: center;
       justify-content: center;
       color: var(--dark);
-      background-color: var(--dark);
+      /*background-color: var(--dark);*/
       background-size: auto;
       background-position: center;
       background-repeat: no-repeat;
